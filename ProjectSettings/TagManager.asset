@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Checkpoint
+  - Resource
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Floor
+  - Water
+  - UI
+  - Resource
+  - Objects
+  - Targets
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: checkpoints
+    uniqueID: 1047306525
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 2075118497
+    locked: 0
+  - name: Blocking
+    uniqueID: 3899163831
+    locked: 0
